@@ -1,0 +1,19 @@
+{
+  "name": "usps-api-practice-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoodcodes/usps-api-practice-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoodcodes/usps-api-practice-node/issues"
+  },
+  "homepage": "https://github.com/hoodcodes/usps-api-practice-node#readme"
+}
