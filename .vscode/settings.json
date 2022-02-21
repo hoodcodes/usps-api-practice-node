@@ -29,7 +29,7 @@
     "editorRuler.foreground": "#4093ff",
     "statusBar.background": "#2f0cf3"
   },
-  "window.zoomLevel": 2,
+  "window.zoomLevel": -2,
   "editor.tabSize": 2,
   "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
   "editor.formatOnSave": true

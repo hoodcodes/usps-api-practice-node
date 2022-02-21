@@ -19,6 +19,10 @@
   "dependencies": {
     "axios": "^0.25.0",
     "cheerio": "^1.0.0-rc.10",
-    "express": "^4.17.2"
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "usps-web-tools-node-sdk": "^0.6.1",
+    "utf-8": "^2.0.0",
+    "xml2js": "^0.4.23"
   }
 }
